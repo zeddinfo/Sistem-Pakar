@@ -1,2 +1,1 @@
-# Sistem-Pakar
-Aplikasi sistem pakar menggunakan CodeIgniter Jquery dan Ajax
+# sistem_pakar
